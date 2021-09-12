@@ -1,5 +1,5 @@
 # Focus-with-T-Rex
-<img src="winnerss.png" alt="winnerss" width="200"/>
+<img src="winnerss.png" alt="winnerss" width="250"/>
 <img src="Screenshot_1.png" alt="ss" height="450"/>
 
 #### This is a Pomodoro/productivity app that will encourage you to focus without getting distracted. 
